@@ -4,7 +4,3 @@
 - 👯 I’m looking to collaborate on data analytics/science projects.
 - ⚡ Fun fact: I enjoy time with family, camping, skiing, and sports.
 - 📫 How to reach me: https://www.linkedin.com/in/ericmeyer123/
-
-
-
-Excel, SQL, Python, and Tableau.
