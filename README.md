@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Eric! I'm currently pursuing my passion for using data to help businesses and people succeed!
-- 🌱 I’m currently learning SQL, Tableau, and Python.
-- 👯 I’m looking to collaborate on data analytics/science projects.
+- 🌱 I’m earning my Master of Science in Data Analytics and learning SQL, Tableau, and Python.
+- 👯 I’m looking to grow my data analytics/science skills through real life projects.
 - ⚡ Fun fact: I enjoy time with family, camping, skiing, and sports.
 - 📫 How to reach me: https://www.linkedin.com/in/ericmeyer123/
