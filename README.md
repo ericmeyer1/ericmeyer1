@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VS Code, GitHub, Git, Jupyter, and Python**
 
-- 💬 Ask me about my **AI assistant named Jarvis**
+- 💬 Ask me about my micro SAAS **TradesAssistant**
 
 - 📫 How to reach me **eric.meyer2019@gmail.com**
 
