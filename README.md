@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VS Code, GitHub, Git, Jupyter, and Python**
 
-- 💬 Ask me about my micro SAAS **TradesAssistant**
+- 💬 Ask me about my micro SAAS **TradeWorks**
 
 - 📫 How to reach me **eric.meyer2019@gmail.com**
 
